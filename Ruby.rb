@@ -8,7 +8,7 @@ loop do
   puts "TESTE NUMERO: #{val_num}"
   puts "TESTE STRING: #{val_string}"
 
-  break if val_num == 80
+  break if val_num == 85
   
 end
 puts "TESTE BOOLEANO: #{val_boolean}"
